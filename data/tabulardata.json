@@ -1,0 +1,178 @@
+[
+  {
+    "contract": "Phoenix GTG",
+    "job": "PHX-1001",
+    "status": "Active",
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "leanne@example.com",
+    "city": "Gwenborough",
+    "street": "Kulas Light",
+    "zipcode": "92998-3874"
+  },
+  {
+    "contract": "Phoenix GTG",
+    "job": "PHX-1002",
+    "status": "Inactive",
+    "name": "Alex Johnson",
+    "username": "alexj",
+    "email": "alexj@example.com",
+    "city": "Springfield",
+    "street": "Evergreen Terrace",
+    "zipcode": "12345"
+  },
+  {
+    "contract": "Orion Gas Plant",
+    "job": "ORN-2001",
+    "status": "Active",
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "ervin@example.com",
+    "city": "Wisokyburgh",
+    "street": "Victor Plains",
+    "zipcode": "90566-7771"
+  },
+  {
+    "contract": "Orion Gas Plant",
+    "job": "ORN-2002",
+    "status": "Inactive",
+    "name": "Sarah Wells",
+    "username": "swells",
+    "email": "sarahw@example.com",
+    "city": "Lakeview",
+    "street": "Canyon Drive",
+    "zipcode": "56789"
+  },
+  {
+    "contract": "Nova Hydrogen GTG",
+    "job": "NVA-3001",
+    "status": "Active",
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "clementine@example.com",
+    "city": "McKenziehaven",
+    "street": "Douglas Extension",
+    "zipcode": "59590-4157"
+  },
+  {
+    "contract": "Nova Hydrogen GTG",
+    "job": "NVA-3002",
+    "status": "Inactive",
+    "name": "Jon Marks",
+    "username": "jmarks",
+    "email": "jon@example.com",
+    "city": "Oldtown",
+    "street": "Sunset Blvd",
+    "zipcode": "98765"
+  },
+  {
+    "contract": "Vega LNG Project",
+    "job": "VGA-4001",
+    "status": "Active",
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "patricia@example.com",
+    "city": "South Elvis",
+    "street": "Hoeger Mall",
+    "zipcode": "53919-4257"
+  },
+  {
+    "contract": "Solar Fusion Plant",
+    "job": "SOL-5001",
+    "status": "Active",
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "chelsey@example.com",
+    "city": "Roscoeview",
+    "street": "Skiles Walks",
+    "zipcode": "33263"
+  },
+  {
+    "contract": "Lunar Refinery",
+    "job": "LUN-6001",
+    "status": "Active",
+    "name": "Dennis Schulist",
+    "username": "Dennis",
+    "email": "dennis@example.com",
+    "city": "South Christy",
+    "street": "Norberto Crossing",
+    "zipcode": "23505-1337"
+  },
+  {
+    "contract": "Lunar Refinery",
+    "job": "LUN-6002",
+    "status": "Inactive",
+    "name": "Eliza Finch",
+    "username": "efinch",
+    "email": "eliza@example.com",
+    "city": "Lunar Bay",
+    "street": "Orbit Street",
+    "zipcode": "30303"
+  },
+  {
+    "contract": "Mars Power Station",
+    "job": "MRS-7001",
+    "status": "Active",
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn",
+    "email": "kurtis@example.com",
+    "city": "Howemouth",
+    "street": "Rex Trail",
+    "zipcode": "58804-1099"
+  },
+  {
+    "contract": "Mars Power Station",
+    "job": "MRS-7002",
+    "status": "Inactive",
+    "name": "Mira Lane",
+    "username": "miral",
+    "email": "mira@example.com",
+    "city": "Red City",
+    "street": "Martian Ave",
+    "zipcode": "44556"
+  },
+  {
+    "contract": "Jupiter Compression Unit",
+    "job": "JPT-8001",
+    "status": "Active",
+    "name": "Nicholas V",
+    "username": "NickV",
+    "email": "nick@example.com",
+    "city": "Aliyaview",
+    "street": "Ellsworth Summit",
+    "zipcode": "45169"
+  },
+  {
+    "contract": "Titan Recovery Facility",
+    "job": "TTN-9001",
+    "status": "Active",
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "glenna@example.com",
+    "city": "Bartholomebury",
+    "street": "Dayna Park",
+    "zipcode": "76495-3109"
+  },
+  {
+    "contract": "Titan Recovery Facility",
+    "job": "TTN-9002",
+    "status": "Inactive",
+    "name": "Raymond Lane",
+    "username": "rlane",
+    "email": "ray@example.com",
+    "city": "Titan Town",
+    "street": "Moon Blvd",
+    "zipcode": "88990"
+  },
+  {
+    "contract": "Neptune Carbon Capture",
+    "job": "NPT-10001",
+    "status": "Active",
+    "name": "Clementina DuBuque",
+    "username": "Moriah",
+    "email": "clem@example.com",
+    "city": "Lebsackbury",
+    "street": "Kattie Turnpike",
+    "zipcode": "31428-2261"
+  }
+]
