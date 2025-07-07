@@ -30,6 +30,12 @@ app.get('/api/tabledata', (req, res) => {
   res.json(data);
 });
 
+// Read Advance filter
+const filePath = require('./data/AdvanceSearch.json');
+app.get('/api/advanceFilter', (req, res) => {
+ res.json(filePath);
+});
+
 // Load users from JSON
 const users = require('./data/users.json');
 

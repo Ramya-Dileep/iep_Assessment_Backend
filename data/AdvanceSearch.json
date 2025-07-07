@@ -1,0 +1,176 @@
+{
+  "data": {
+    "filterItems": [
+      {
+        "filterName": "Delivery Year",
+        "propertyName": "Delivery_Year"
+      },
+      {
+        "filterName": "RAC Year",
+        "propertyName": "RAC_Year"
+      },
+      {
+        "filterName": "Project Status",
+        "propertyName": "Project_Type"
+      },
+       {
+        "filterName": "Driver",
+        "propertyName": "Driver"
+      },
+       {
+        "filterName": "Driven",
+        "propertyName": "Driven"
+      },
+      {
+        "filterName": "Connector",
+        "propertyName": "Connector"
+      },
+       {
+        "filterName": "Installation Country",
+        "propertyName": "Installation"
+      }
+ 
+    ],
+    "Delivery_Year":["2017","2018","2019","2020","2021","2023"],
+    "RAC_Year" :["2020", "2021", "2022", "2024"],
+    "Project_Type": ["Active","Planned", "Inactive"],
+    "Driver": ["Gas Turbine", "Gas Engine", "MS6001", "Electric Motor"],   
+    "Driven" : ["2BCL 1007", "2BCL 1206", "3MCL 1004"],
+    "Connector" : ["Gear Box", "GB", "Others"],
+    "Installation" : ["AT-Austria", "BE-Belgium", "CA-Canada"],
+  "jobFullList": [
+  {
+    "jobId": "9b97c9b3-6006-71b3-2f8a-cdd237105db5",
+    "jobNumber": "Phoenix GTG",
+    "parentProjectId": "p1",
+    "endUserAccountName": "Adriana Cabal",
+    "Project_Type": "Active",
+    "Delivery_Year": "2017",
+    "RAC_Year": "2020",
+    "Category": "KORE ENERGY LTD",
+    "Driver": "Gas Turbine",
+    "Driven": "2BCL 1007",
+    "Connector": "Gear Box",
+    "Installation": "AT-Austria"
+  },
+  {
+    "jobId": "143abe2c-9e8f-4738-a26d-255c020dc185",
+    "jobNumber": "Orion Gas Plant",
+    "parentProjectId": "p2",
+    "Project_Type": "Planned",
+    "Delivery_Year": "2019",
+    "RAC_Year": "2020",
+    "Category": "LG CHEM",
+    "Driver": "Gas Engine",
+    "Driven": "2BCL 1206",
+    "Connector": "GB",
+    "Installation": "BE-Belgium"
+  },
+  {
+    "jobId": "6fa72b83-e85b-0757-feba-1292ad33a997",
+    "jobNumber": "Nova Hydrogen GTG",
+    "parentProjectId": "p3",
+    "Project_Type": "Inactive",
+    "Delivery_Year": "2018",
+    "RAC_Year": "2021",
+    "Category": "MARATHON OIL",
+    "Driver": "MS6001",
+    "Driven": "3MCL 1004",
+    "Connector": "Others",
+    "Installation": "CA-Canada"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000001",
+    "jobNumber": "Vega LNG Project",
+    "parentProjectId": "p4",
+    "Project_Type": "Active",
+    "Delivery_Year": "2020",
+    "RAC_Year": "2021",
+    "Category": "KORE ENERGY LTD",
+    "Driver": "Electric Motor",
+    "Driven": "2BCL 1007",
+    "Connector": "Gear Box",
+    "Installation": "AT-Austria"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000002",
+    "jobNumber": "Solar Fusion Project",
+    "parentProjectId": "p5",
+    "Project_Type": "Planned",
+    "Delivery_Year": "2021",
+    "RAC_Year": "2022",
+    "Category": "LG CHEM",
+    "Driver": "Gas Turbine",
+    "Driven": "2BCL 1206",
+    "Connector": "GB",
+    "Installation": "BE-Belgium"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000003",
+    "jobNumber": "Lunar Refinery Expansion",
+    "parentProjectId": "p6",
+    "Project_Type": "Inactive",
+    "Delivery_Year": "2019",
+    "RAC_Year": "2022",
+    "Category": "MARATHON OIL",
+    "Driver": "Gas Engine",
+    "Driven": "3MCL 1004",
+    "Connector": "Others",
+    "Installation": "CA-Canada"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000004",
+    "jobNumber": "Mars Power Upgrade",
+    "parentProjectId": "p7",
+    "Project_Type": "Active",
+    "Delivery_Year": "2023",
+    "RAC_Year": "2024",
+    "Category": "KORE ENERGY LTD",
+    "Driver": "MS6001",
+    "Driven": "2BCL 1007",
+    "Connector": "Gear Box",
+    "Installation": "AT-Austria"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000005",
+    "jobNumber": "Jupiter Compression Expansion",
+    "parentProjectId": "p8",
+    "Project_Type": "Planned",
+    "Delivery_Year": "2022",
+    "RAC_Year": "2024",
+    "Category": "LG CHEM",
+    "Driver": "Electric Motor",
+    "Driven": "2BCL 1206",
+    "Connector": "GB",
+    "Installation": "BE-Belgium"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000006",
+    "jobNumber": "Titan Recovery Renovation",
+    "parentProjectId": "p9",
+    "Project_Type": "Inactive",
+    "Delivery_Year": "2020",
+    "RAC_Year": "2024",
+    "Category": "MARATHON OIL",
+    "Driver": "Gas Turbine",
+    "Driven": "3MCL 1004",
+    "Connector": "Others",
+    "Installation": "CA-Canada"
+  },
+  {
+    "jobId": "a1b2c3d4-e85b-0757-feba-000000000007",
+    "jobNumber": "Neptune Carbon Capture",
+    "parentProjectId": "p10",
+    "Project_Type": "Active",
+    "Delivery_Year": "2024",
+    "RAC_Year": "2024",
+    "Category": "KORE ENERGY LTD",
+    "Driver": "Gas Engine",
+    "Driven": "2BCL 1007",
+    "Connector": "Gear Box",
+    "Installation": "AT-Austria"
+  }
+]
+
+  }
+}
