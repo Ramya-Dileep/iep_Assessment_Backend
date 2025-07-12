@@ -30,6 +30,33 @@ app.get('/api/tabledata', (req, res) => {
   res.json(data);
 });
 
+// NCR Table data route
+const ncrdata = require('./data/ncrTabularIndividual.json');
+app.get('/api/ncrtabledata', (req, res) => {
+  res.json(ncrdata);
+});
+
+// NCR Table data route For Project
+const ncrprojectdata = require('./data/ncrTabularProject.json');
+app.get('/api/ncrprojecttabledata', (req, res) => {
+  res.json(ncrprojectdata);
+});
+
+// NCR Chart data route
+// const ncrchartdata = require('./data/ncrChartIndividual.json');
+const ncrchartdata = require('./data/ncrChartIndividualData.json');
+app.get('/api/ncrchartdata', (req, res) => {
+  res.json(ncrchartdata);
+});
+
+// NCR Chart data route For Project
+// const ncrchartprojectdata = require('./data/ncrChartProject.json');
+const ncrchartprojectdata = require('./data/ncrChartProjectData.json');
+app.get('/api/ncrchartprojectdata', (req, res) => {
+  res.json(ncrchartprojectdata);
+});
+
+
 // Read Advance filter
 const filePath = require('./data/AdvanceSearch.json');
 app.get('/api/advanceFilter', (req, res) => {
